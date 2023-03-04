@@ -75,7 +75,7 @@ Escreva um programa que inverta os caracteres de um string.
 ---
 
 
-# Desafio 6
+## Desafio 6
 
 O manifesto ágil foi um divisor na forma como os projetos eram desenvolvidos, mudando a maneira de como montamos os times e controlamos os processos, além da valorização e aproximação com o cliente, tanto que hoje é um tema comum nas graduações e cursos.
 
