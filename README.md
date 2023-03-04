@@ -71,3 +71,12 @@ Escreva um programa que inverta os caracteres de um string.
 ---
 
 **NÃO SE ESQUEÇA DE INSERIR O LINK DO SEU REPOSITÓRIO NO GITHUB COM O CÓDIGO FONTE QUE VOCÊ DESENVOLVEU**
+
+---
+
+
+# Desafio 6
+
+O manifesto ágil foi um divisor na forma como os projetos eram desenvolvidos, mudando a maneira de como montamos os times e controlamos os processos, além da valorização e aproximação com o cliente, tanto que hoje é um tema comum nas graduações e cursos.
+
+Você consegue falar um pouco sobre uma das metodologias que surgiram e o que te chama atenção nela?
